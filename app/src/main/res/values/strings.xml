@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mushrooms  classification</string>
+    <string name="take_picture">Take Picture</string>
+    <string name="todo">TODO</string>
+    <string name="load_image">load image</string>
+    <string name="textview">TextView</string>
+
+</resources>
